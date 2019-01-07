@@ -9,6 +9,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ## Let´s get started
 
+- Download and install [sbt](https://www.scala-sbt.org/)
 - Create ``.json``-files in ``./jobs/`` with this structure:
 
 ```
