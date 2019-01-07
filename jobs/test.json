@@ -1,0 +1,17 @@
+{
+  "requestName" : "My first request",
+  "requestTargetUrl" : "google.de",
+  "requestTargetPort" : "80",
+  "requestType" : "GET",
+  "headerParams" : [
+    {
+      "key" : "<KEY_1>",
+      "value" : "<VALUE_1>"
+    },
+    {
+      "key" : "<KEY_2>",
+      "value" : "<VALUE_2>"
+    }
+  ],
+  "body" : "<BODY_PAYLOAD>"
+}
